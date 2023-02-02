@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_ui_next">Next</string>
+    <string name="base_ui_back">Back</string>
+    <string name="base_ui_under_develop">данный раздел в разработке</string>
+    <string name="checkIcon">Check icon</string>
+    <string name = "customAlert">Custom Alert</string>
+    <string name="close">Close</string>
+    <string name="first">Fist</string>
+    <string name="secont">Secont</string>
+    <string name="thrid">Third</string>
+    <string name="fourth">Fourth</string>
+</resources>

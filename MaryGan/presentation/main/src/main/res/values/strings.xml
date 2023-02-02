@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="startAnim">Start Animation</string>
+    <string name="stoptAnim">Stop Animation</string>
+    <string name="hideShowAnim">Hide / Show Animation</string>
+    <string name="loading">Loading...</string>
+    <string name="showAlert">Show custom alert</string>
+    <string name="secondScreen">Go to second screen</string>
+</resources>

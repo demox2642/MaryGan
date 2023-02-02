@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url=uri("https://oss.sonatype.org/content/repositories/snapshots/") }
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "MaryGan"
+include ':app'
+include ':presentation:main'
+include ':presentation:second'
+include ':presentation:base-ui'
+include ':domain:second'
+include ':data:second'
